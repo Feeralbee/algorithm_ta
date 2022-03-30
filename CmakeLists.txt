@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.2)
+
+project(algorithm)
+
+add_executable(algorithm
+    exercise.cpp
+    main_one.cpp
+    one.cpp
+    two.cpp
+)
